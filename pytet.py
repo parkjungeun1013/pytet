@@ -1,1 +1,0 @@
-cat pytet.py
